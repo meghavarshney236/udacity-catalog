@@ -12,22 +12,15 @@ npm or yarn
 Setup
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone <repository-url>
 cd <repository-name>
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
 Running Tests
 Execute tests with:
-bash
-Copy
-Edit
+
 npm run test
 Folder Structure
 features/: Gherkin feature files.
